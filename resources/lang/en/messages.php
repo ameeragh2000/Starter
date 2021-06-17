@@ -15,4 +15,6 @@ return [
 
     'hello gus'=>'Hello Gus',
     'welcome'=>'WELCOME',
+    'offer name required'=>'offer name Required',
+    'offer name must be unique'=>'offer name must be unique',
 ];

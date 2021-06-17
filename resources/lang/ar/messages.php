@@ -15,5 +15,7 @@ return [
 
    'hello gus'=>'مرحبا بكم',
     'welcome'=>'أهلا',
+    "offer name required"=>'اسم العرض مطلوب',
+    "offer name must be unique"=>'اسم العرض يجب الا يتكرر',
 
 ];
