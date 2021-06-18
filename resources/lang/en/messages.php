@@ -17,4 +17,13 @@ return [
     'welcome'=>'WELCOME',
     'offer name required'=>'offer name Required',
     'offer name must be unique'=>'offer name must be unique',
+    "Add your offer"=>'Add your offer',
+    "Offer Name en"=>'Offer Name in English',
+    "Offer Name ar"=>'Offer Name in Arabic',
+    "Offer Price"=>'Offer Price',
+    "Offer details en"=>'Offer details in English',
+    "Offer details ar"=>'Offer details in Arabic',
+    "Offer Name"=>'Offer Name',
+    "Offer details"=>'Offer details',
+
 ];

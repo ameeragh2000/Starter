@@ -83,6 +83,7 @@ Route::group(['prefix'=>LaravelLocalization::setLocale(),'middleware' => [ 'loca
     Route::group(['prefix'=>'offer'],function (){
         Route::get('create','CrudController@create');
         Route::post('store','CrudController@store')->name('offer.store');
+        Route::get('all','CrudController@getAllOffers');
    });
 
 });

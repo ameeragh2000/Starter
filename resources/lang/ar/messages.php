@@ -17,5 +17,13 @@ return [
     'welcome'=>'أهلا',
     "offer name required"=>'اسم العرض مطلوب',
     "offer name must be unique"=>'اسم العرض يجب الا يتكرر',
+    "Add your offer"=>'اضافة عرض جديد',
+    "Offer Name ar"=>'اسم العرض بالعربي',
+    "Offer Name en"=>'اسم العرض يالانجليزي',
+    "Offer Price"=>'سعر العرض',
+    "Offer details ar"=>'تفاصيل العرض بالعربي',
+    "Offer details en"=>'تفاصيل العرض بالانجليزي',
+    "Offer Name"=>'اسم العرض',
+    "Offer details"=>'تفاصيل العرض',
 
 ];
